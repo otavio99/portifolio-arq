@@ -13,6 +13,8 @@ tags: [git, desenvolvimento]
 
 Se você ja tentou obter uma posição de desenvolvedor em alguma empresa, ou já vem estudando desenvolvimento por um tempo, provavelmente deve ter ouvido falar sobre a ferramenta **Git**.
 
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/3K00Ue-VnUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 O **Git** é amplamente aceito na comunidade dev e têm se tornado a cada dia uma ferramenta mais que obrigatória na hora de desenvolver uma aplicação. Também se tornou um critério indispensável utilizado empresas na contratação de desenvolvedores de vários níveis (principalmente os juniors).
 
 Então, se você não sabe o que é **Git**. ou sabe pouco sobre essa ferramenta, eu sugiro que você comece a se preocupar. Não saber Git vai fazer você esbarrar em um muro de dificuldades na hora de contribuir tanto em projetos comerciais, quanto open source.
