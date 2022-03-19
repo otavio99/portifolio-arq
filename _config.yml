@@ -15,8 +15,9 @@ author: Otavio Nathanael
 
 navbar-links:
   Sobre: "aboutme"
-  Categorias: 'tags'
-  Portifolio: 'portifolio'
+  Blog: "blog"
+  Categorias: "tags"
+  
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -97,22 +98,22 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#cdbba7ff"
-navbar-text-col: "#6b4016ff"
-navbar-border-col: "#cdbba7ff"
-page-col: "#e5e2dbff"
-text-col: "#87591eff"
-head-text-col: "#87591eff"
-link-col: "#db6a73"
-hover-col: "#afa79aff"
-footer-col: "#cdbba7ff"
+navbar-col: "#c7c4bfff"
+navbar-text-col: "#8e6547ff"
+navbar-border-col: "#c7c4bfff"
+page-col: "#dddad5ff"
+text-col: "#8e6547ff"
+head-text-col: "#8e6547ff"
+link-col: "#462619ff"
+hover-col: "#462619ff"
+footer-col: "#c7c4bfff"
 button-col: "#b98a5e"
 footer-text-col: "#6b4016ff"
-footer-link-col: "#b98a5e"
-footer-hover-col: "#db6a73"
-footer-border-col: "#b98a5e"
-notice-text-col: "#aab1bd"
-quote-text-col: "#aab1bd"
+footer-link-col: "#8e6547ff"
+footer-hover-col: "#462619ff"
+footer-border-col: "#c7c4bfff"
+notice-text-col: "grey"
+quote-text-col: "grey"
 hr-col: "#b98a5e"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
