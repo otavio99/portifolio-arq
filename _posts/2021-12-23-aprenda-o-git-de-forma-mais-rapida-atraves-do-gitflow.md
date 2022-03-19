@@ -17,7 +17,9 @@ O **Git** é amplamente aceito na comunidade dev e têm se tornado a cada dia um
 
 Então, se você não sabe o que é **Git**. ou sabe pouco sobre essa ferramenta, eu sugiro que você comece a se preocupar. Não saber Git vai fazer você esbarrar em um muro de dificuldades na hora de contribuir tanto em projetos comerciais, quanto open source.
 
-![oops](/assets/img/vettel-in.gif){: .mx-auto.d-block :}
+![oops]({{site.baseurl}}/assets/img/vettel-in.gif){: .mx-auto.d-block :}
+
+
 
 Também iremos ver sobre o **Gitflow** e entender como ele pode nos ajudar a aprender o Git de forma máis prática e eficiente.
 
