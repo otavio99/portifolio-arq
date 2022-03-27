@@ -17,7 +17,7 @@ navbar-links:
   Sobre: "aboutme"
   Blog: "blog"
   Categorias: "tags"
-  
+
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -219,7 +219,7 @@ timezone: "America/Campo_Grande"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 4
+paginate: 6
 
 kramdown:
   input: GFM
